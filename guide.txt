@@ -13,6 +13,4 @@ git remote add origin above link
 git status 
 git add .
 git commit -m"message"
-
-
-kishan fata ho daka ho syal ho
+git push origin branch_name
