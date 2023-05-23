@@ -1,0 +1,12 @@
+things to do
+-init
+-add
+-push
+-pull
+-commit
+
+steps
+first
+git init
+next go to the repo copy the https.git link
+git remote add origin above link
